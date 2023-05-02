@@ -1,9 +1,1 @@
-{  "cep": "21940-375",  "logradouro": "Rua Orestes Barbosa",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21940-375",  "logradouro": "Rua Orestes Barbosa",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21940-375",  "logradouro": "Rua Orestes Barbosa",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21940-375",  "logradouro": "Rua Orestes Barbosa",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21941-050",  "logradouro": "Rua Ondina Ribeiro Dantas",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21940-375",  "logradouro": "Rua Orestes Barbosa",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21941-900",  "logradouro": "Avenida Vinte de Janeiro",  "complemento": "s/n",  "bairro": "Galeão",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21941-200",  "logradouro": "Rua Caminho de Pedras",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
-{  "cep": "21940-375",  "logradouro": "Rua Orestes Barbosa",  "complemento": "",  "bairro": "Jardim Guanabara",  "localidade": "Rio de Janeiro",  "uf": "RJ",  "ibge": "3304557",  "gia": "",  "ddd": "21",  "siafi": "6001"}
+
